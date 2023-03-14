@@ -1,0 +1,16 @@
+body {
+  background-image: url('Background1.jpg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover; 
+  font-family: sans-serif;
+}
+
+#judul {
+  text-align: center;
+  color: #0D7EAE;
+}
+h1 {
+  font-weight: lighter;
+  font-style: italic;
+}
